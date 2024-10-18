@@ -1,4 +1,6 @@
-## Hi there 👋
+## React, TypeScript로 개발하는 프론트엔드 개발자 zinny의 깃허브에 오신걸 환영합니다! 👋
+
+
 
 <!--
 **kjewt/kjewt** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
